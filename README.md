@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">Computer Science Engineer | Android Developer | Java & Kotlin | I create efficient mobile solutions for seamless operations.</h3>
 
-<p align="center">Hello, I'm Kunal - a Computer Science engineer, proficient in Java, C++, and Python.
+<p align="center">
 
 I pursued my Bachelor's degree at Silicon Institute of Technology, achieving an impressive 8.8 CGPA. In my free time, I'm passionate about article writing and public speaking.
 
