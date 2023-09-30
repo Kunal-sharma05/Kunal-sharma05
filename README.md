@@ -2,6 +2,22 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">Computer Science Engineer | Android Developer | Java & Kotlin | I create efficient mobile solutions for seamless operations.</h3>
 
+<p align="center">Hello, I'm Kunal - a Computer Science engineer, proficient in Java, C++, and Python.
+
+I pursued my Bachelor's degree at Silicon Institute of Technology, achieving an impressive 8.8 CGPA. In my free time, I'm passionate about article writing and public speaking.
+
+I bring a wealth of experience, having written over 250 successful articles and managed teams for over 500 articles. I've also delved into machine learning, comparing algorithms for household income prediction using technologies like Neural Network and Anaconda.
+
+Here are three key strengths I bring to the table:
+
+•	Proficiency in multiple programming languages.
+•	Strong analytical skills in machine learning and data analysis.
+•	Effective teamwork and leadership in article writing.
+
+Currently, my goals involve collaborating on innovative projects and expanding my network. If you have exciting opportunities or wish to collaborate, please connect with me on LinkedIn.
+
+You can reach out to me at itsmekunal0501@gmail.com or +91 7347837852. Let's connect and explore possibilities together.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-sharma05&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-sharma05" /> </p>
 
 - 🔭 I’m currently working on **Stable Diffusion XL 1.0**
